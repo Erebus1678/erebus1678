@@ -8,7 +8,8 @@ I\`ve been learning to code last months, after switching careers. I started with
 
 * 🌍  I'm based in Volodimir (Ukraine), ready to relocate
 * ✉️  You can contact me at [dmitryi.platov@gmail.com](mailto:dmitryi.platov@gmail.com)
-* 🧠  I'm learning React
+* 📤  [Telegram](https://t.me/Erebus1678)
+* 🧠  I'm learning React
 
 ### Skills
 
@@ -29,7 +30,5 @@ I\`ve been learning to code last months, after switching careers. I started with
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Erebus1678"><img src="https://github-readme-stats.vercel.app/api?username=Erebus1678&show_icons=true&hide=stars,issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Erebus1678's GitHub stats" /></a>
 
 <a href="https://github.com/Erebus1678" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erebus1678&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
