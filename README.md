@@ -1,16 +1,33 @@
-<h1 align="center">Hi 👋, I'm Dmitro</h1>  
-<h3 align="center">A passionate frontend developer Ukraine</h3>  
-    
-- 📫 How to reach me [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmitryi.platov@gmail.com)
-- [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Erebus1678)
-<h3 align="left">Connect with me:</h3>  
-<p align="left">  
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dmitryi-platov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dmitryi-platov/" height="30" width="40" /></a>  
-</p>  
-  
+# Dmytro Platov
 
+**Senior Frontend Engineer — React & TypeScript**
 
-<h3 align="left">Languages and Tools:</h3>  
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>  
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erebus1678&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="erebus1678" /></p>
+I build and own the frontend of high-traffic products. Most recently at **DreamHost** (remote, US product company), where I shipped **45+ React 18 SPAs** and a server-rendered **Next.js** surface serving **100k+ monthly users**, with a focus on performance, architecture and long-term maintainability.
+
+- 🔭 5+ years in frontend; 3+ owning frontend architecture
+- ⚡ Performance & reliability: Core Web Vitals, bundle optimization, release monitoring (Datadog RUM), incident response
+- 🧱 Design systems & micro-frontends; cut a legacy bug backlog by 50%+ by re-architecting modules and setting shared standards
+- 📊 Analytics instrumentation: led a GA3 → GA4 migration (events, funnels, release validation)
+- 🎓 Currently pursuing an MSc in Computer Science (AI/ML track)
+- 📍 Bucharest, Romania · open to remote (EU) and relocation
+- 💬 Ukrainian (native), English (B2), Russian
+
+## Tech
+
+`React` · `TypeScript` · `Next.js` · `Redux Toolkit` · `Zustand` · `MobX`
+`TailwindCSS` · `MUI` · `Styled Components` · `Storybook`
+`Vite` · `Webpack` · `ESBuild` · `Jest` · `React Testing Library`
+`GA4` · `Datadog RUM` · `REST` · `GitLab CI/CD`
+
+## Featured
+
+| Project | What it is | Stack |
+|---|---|---|
+| [fsd-react-template](https://github.com/Erebus1678/fsd-react-template) | Production-ready React starter on Feature-Sliced Design | React · TS · Vite · Tailwind · Zustand |
+| [next-mobx-crypto-exchange](https://github.com/Erebus1678/next-mobx-crypto-exchange) | Real-time crypto converter ([live](https://next-mobx-crypto-exchange.vercel.app)) | Next 15 · React 19 · MobX · TS · MUI |
+| [imaginify](https://github.com/Erebus1678/imaginify) | AI image-editing SaaS | Next 14 · TS · Cloudinary AI · Stripe · MongoDB |
+| [portfolio](https://github.com/Erebus1678/portfolio) | Personal portfolio ([live](https://platov-portfolio.vercel.app)) | Next · TS · Tailwind · Sanity CMS |
+
+## Reach me
+
+[LinkedIn](https://linkedin.com/in/dmitryi-platov) · dmitryi.platov@gmail.com
