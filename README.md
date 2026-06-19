@@ -1,6 +1,13 @@
-# Dmytro Platov
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=180&section=header&text=Dmytro%20Platov&fontSize=50&fontColor=ffffff&desc=Senior%20Frontend%20Engineer%20·%20React%20·%20TypeScript%20·%20Next.js&descSize=18&descAlignY=70)
 
-**Senior Frontend Engineer — React · TypeScript · Next.js**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=26D0CE&center=true&vCenter=true&width=600&lines=I+own+frontend+architecture;100k%2B+users+·+45%2B+React+18+modules;Core+Web+Vitals+·+Datadog+RUM+·+GA4)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dmitryi-platov)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmitryi.platov@gmail.com)
+[![Location](https://img.shields.io/badge/Bucharest,%20Romania-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+![Profile views](https://komarev.com/ghpvc/?username=Erebus1678&color=26d0ce&style=flat)
+
+---
 
 I own frontend architecture for high-traffic products. At **DreamHost** (remote, US)
 I cut the customer control-panel's bug backlog by **50%+ (150+ issues resolved)** by
@@ -20,19 +27,14 @@ analytics migration for a panel serving **100k+ monthly users**.
 
 ## Tech
 
-`React` · `TypeScript` · `Next.js` · `Redux Toolkit` · `Zustand` · `MobX`
-`TailwindCSS` · `MUI` · `Styled Components` · `Storybook`
-`Vite` · `Webpack` · `ESBuild` · `Jest` · `React Testing Library`
-`GA4` · `Datadog RUM` · `REST` · `GitLab CI/CD`
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nextjs,redux,tailwind,mui,vite,webpack,jest,git,gitlab&theme=dark)](https://skillicons.dev)
 
 ## Featured
 
-| Project | What it is | Stack |
-|---|---|---|
-| [next-mobx-crypto-exchange](https://github.com/Erebus1678/next-mobx-crypto-exchange) | Real-time crypto converter ([live](https://next-mobx-crypto-exchange.vercel.app)) | Next 15 · React 19 · MobX · TS · MUI |
-| [fsd-react-template](https://github.com/Erebus1678/fsd-react-template) | Production-ready React starter on Feature-Sliced Design | React · TS · Vite · Tailwind · Zustand |
-| [imaginify](https://github.com/Erebus1678/imaginify) | AI image-editing SaaS | Next 14 · TS · Cloudinary AI · Stripe · MongoDB |
-| [portfolio](https://github.com/Erebus1678/portfolio) | Personal portfolio ([live](https://platov-portfolio.vercel.app)) | Next · TS · Tailwind · Sanity CMS |
+[![crypto](https://github-readme-stats.vercel.app/api/pin/?username=Erebus1678&repo=next-mobx-crypto-exchange&theme=tokyonight)](https://github.com/Erebus1678/next-mobx-crypto-exchange)
+[![fsd](https://github-readme-stats.vercel.app/api/pin/?username=Erebus1678&repo=fsd-react-template&theme=tokyonight)](https://github.com/Erebus1678/fsd-react-template)
+[![imaginify](https://github-readme-stats.vercel.app/api/pin/?username=Erebus1678&repo=imaginify&theme=tokyonight)](https://github.com/Erebus1678/imaginify)
+[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Erebus1678&repo=portfolio&theme=tokyonight)](https://github.com/Erebus1678/portfolio)
 
 ## Reach me
 
