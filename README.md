@@ -1,16 +1,22 @@
 # Dmytro Platov
 
-**Senior Frontend Engineer — React & TypeScript**
+**Senior Frontend Engineer — React · TypeScript · Next.js**
 
-I build and own the frontend of high-traffic products. Most recently at **DreamHost** (remote, US product company), where I shipped **45+ React 18 SPAs** and a server-rendered **Next.js** surface serving **100k+ monthly users**, with a focus on performance, architecture and long-term maintainability.
+I own frontend architecture for high-traffic products. At **DreamHost** (remote, US)
+I cut the customer control-panel's bug backlog by **50%+ (150+ issues resolved)** by
+re-architecting legacy modules and setting shared standards, lifted a core user flow's
+**completion rate by 17%**, and ran release safety (Datadog RUM) and the GA3 → GA4
+analytics migration for a panel serving **100k+ monthly users**.
 
 - 🔭 5+ years in frontend; 3+ owning frontend architecture
-- ⚡ Performance & reliability: Core Web Vitals, bundle optimization, release monitoring (Datadog RUM), incident response
-- 🧱 Design systems & micro-frontends; cut a legacy bug backlog by 50%+ by re-architecting modules and setting shared standards
-- 📊 Analytics instrumentation: led a GA3 → GA4 migration (events, funnels, release validation)
-- 🎓 Currently pursuing an MSc in Computer Science (AI/ML track)
+- 🧱 Built a **runtime-mounted micro-frontend** control panel: 45+ React 18 modules
+      mounted into a legacy host at runtime, talking to backend microservices over REST
+- ⚡ Performance & reliability: Core Web Vitals, bundle optimization, Datadog RUM
+      release monitoring, incident response & rollback calls
+- 📊 Led GA3 → GA4 migration: custom events, funnels, release validation
+- 🎓 Pursuing an MSc in Computer Science (AI/ML track)
 - 📍 Bucharest, Romania · open to remote (EU) and relocation
-- 💬 Ukrainian (native), English (B2), Russian
+- 💬 Ukrainian (native) · English (B2) · Russian (C1)
 
 ## Tech
 
@@ -23,8 +29,8 @@ I build and own the frontend of high-traffic products. Most recently at **DreamH
 
 | Project | What it is | Stack |
 |---|---|---|
-| [fsd-react-template](https://github.com/Erebus1678/fsd-react-template) | Production-ready React starter on Feature-Sliced Design | React · TS · Vite · Tailwind · Zustand |
 | [next-mobx-crypto-exchange](https://github.com/Erebus1678/next-mobx-crypto-exchange) | Real-time crypto converter ([live](https://next-mobx-crypto-exchange.vercel.app)) | Next 15 · React 19 · MobX · TS · MUI |
+| [fsd-react-template](https://github.com/Erebus1678/fsd-react-template) | Production-ready React starter on Feature-Sliced Design | React · TS · Vite · Tailwind · Zustand |
 | [imaginify](https://github.com/Erebus1678/imaginify) | AI image-editing SaaS | Next 14 · TS · Cloudinary AI · Stripe · MongoDB |
 | [portfolio](https://github.com/Erebus1678/portfolio) | Personal portfolio ([live](https://platov-portfolio.vercel.app)) | Next · TS · Tailwind · Sanity CMS |
 
