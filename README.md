@@ -31,10 +31,30 @@ analytics migration for a panel serving **100k+ monthly users**.
 
 ## Featured
 
-[![crypto](https://github-readme-stats.vercel.app/api/pin/?username=Erebus1678&repo=next-mobx-crypto-exchange&theme=tokyonight)](https://github.com/Erebus1678/next-mobx-crypto-exchange)
-[![fsd](https://github-readme-stats.vercel.app/api/pin/?username=Erebus1678&repo=fsd-react-template&theme=tokyonight)](https://github.com/Erebus1678/fsd-react-template)
-[![imaginify](https://github-readme-stats.vercel.app/api/pin/?username=Erebus1678&repo=imaginify&theme=tokyonight)](https://github.com/Erebus1678/imaginify)
-[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Erebus1678&repo=portfolio&theme=tokyonight)](https://github.com/Erebus1678/portfolio)
+**🤖 [Apply Copilot](https://github.com/Erebus1678/apply-copilot)** — newest build
+
+Paste a job description and it extracts the tech stack, seniority and role
+archetype; scores the fit against your CV with a concrete gap list; drafts a
+tailored cover letter; and tracks every application on a persistent pipeline
+board. The AI layer is provider-agnostic — the same code runs against a local
+model (LM Studio, Ollama) or any cloud provider with your own key — and it ships
+with an embedded database, so there is nothing to set up.
+
+<p align="center">
+  <a href="https://github.com/Erebus1678/apply-copilot">
+    <img src="assets/apply-copilot.gif" width="820"
+      alt="Apply Copilot — paste a job description, get a CV-fit score with concrete gaps, streamed live" />
+  </a>
+</p>
+
+<sub>`Next.js` · `React 19` · `TypeScript` · `Tailwind v4` · `streaming AI` · `PGlite`</sub>
+
+| Also on my profile | |
+| :-- | :-- |
+| **[Crypto Exchange](https://github.com/Erebus1678/next-mobx-crypto-exchange)** · [live](https://next-mobx-crypto-exchange.vercel.app) | Real-time crypto converter · Next.js 15 · React 19 · MobX · MUI · Zod |
+| **[Imaginify](https://github.com/Erebus1678/imaginify)** · [live](https://imaginify-tan-tau.vercel.app/) | AI image-editing SaaS · Next.js 14 · Cloudinary AI · Clerk · Stripe · MongoDB |
+| **[FSD React Template](https://github.com/Erebus1678/fsd-react-template)** | Production React starter on Feature-Sliced Design · TS · Vite · Tailwind · Zustand |
+| **[Portfolio](https://github.com/Erebus1678/portfolio)** | This site · Next.js · TypeScript · Tailwind · Framer Motion |
 
 ## Reach me
 
